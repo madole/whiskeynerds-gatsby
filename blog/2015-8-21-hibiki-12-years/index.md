@@ -1,6 +1,8 @@
 ---
 title: "Hibiki 12 Year Old"
 date: "2015-08-20T21:54:10.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/hibiki-12-years/"
 ---
 Hibiki, meaning resonance in Japanese, speaks to the soul and emotions of the most discerning whisky lover. Hibiki is the highest class blended whisky from Suntory made from single malts from Yamazaki and Hakushu, some often aged with a very rare Japanese oak. The 12 Year Old gives pineapple, plum, raspberry, honey and hibiscus on the nose followed by a palate full of banana, pomegranate, custard and pink pepper. The finish is sweet, sour and complex.

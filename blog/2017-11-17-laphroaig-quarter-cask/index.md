@@ -1,6 +1,8 @@
 ---
 title: "Laphroaig Quarter Cask"
 date: "2017-11-16T18:37:00.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/laphroaig-quarter-cask/"
 ---
 ###About the Distiller

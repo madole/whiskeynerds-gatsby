@@ -1,6 +1,8 @@
 ---
 title: "Clynelish 14 Year Old Scotch Whisky"
 date: "2016-08-18T22:02:50.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/clynelish-14-year-old-scotch-whisky/"
 ---
 >Clynelish Distillery is a distillery near Brora, Sutherland in the Highlands of Scotland.

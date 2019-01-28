@@ -1,6 +1,8 @@
 ---
 title: "Crown Royal Northern Harvest Rye"
 date: "2017-01-19T20:18:00.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/crown-royal-northern-harvest-rye/"
 ---
 > ####Origins

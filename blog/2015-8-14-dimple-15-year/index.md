@@ -1,6 +1,8 @@
 ---
 title: "Dimple 15 Year Old"
 date: "2015-08-13T21:48:53.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/dimple-15-year/"
 ---
 Dimple 15 Year Old Scotch has fragrant tones that are almost tones of perfume mellowing to a sweet buttery aroma.  Flavoursome and light, nothing spicy or harsh.  The finish is delicate and maybe a gesture of dark chocolate hiding in there.

@@ -1,6 +1,8 @@
 ---
 title: "The Glenlivet 18 Years"
 date: "2015-10-01T21:59:55.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/the-glenlivet-18-years/"
 ---
 A very special Glenlivet. The bouquet is remarkably flowery, clean and soft. 

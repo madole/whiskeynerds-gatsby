@@ -1,6 +1,8 @@
 ---
 title: "About us"
 date: "2016-06-20T17:47:04.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/about-us/"
 ---
 >**Whiskey Nerds... who are we?**

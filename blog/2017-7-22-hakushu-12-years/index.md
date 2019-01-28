@@ -1,6 +1,8 @@
 ---
 title: "Hakushu - 12 Years"
 date: "2017-07-21T15:05:00.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/hakushu-12-years/"
 ---
 ###About the Distillery

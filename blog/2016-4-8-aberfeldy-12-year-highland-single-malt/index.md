@@ -1,6 +1,8 @@
 ---
 title: "Aberfeldy 12 Year Highland Single Malt"
 date: "2016-04-07T21:55:51.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/aberfeldy-12-year-highland-single-malt/"
 ---
 Mellowed for twelve years in handmade oak casks. This smooth, sweet dram offers rich rewards for those who like to dig deeper. 

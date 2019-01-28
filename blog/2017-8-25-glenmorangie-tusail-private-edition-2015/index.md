@@ -1,6 +1,8 @@
 ---
 title: "Glenmorangie Tùsail Private Edition (2015)"
 date: "2017-08-24T18:40:00.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/glenmorangie-tusail-private-edition-2015/"
 ---
 ###From the Distiller

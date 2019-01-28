@@ -1,6 +1,8 @@
 ---
 title: "The Glenthrotes 1988 (bottled 2014)"
 date: "2015-12-10T20:26:18.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/the-glenthrotes-1988-2/"
 ---
 **Glenrothes 1988 (bottled 2014)** is described as:

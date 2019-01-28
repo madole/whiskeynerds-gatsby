@@ -1,6 +1,8 @@
 ---
 title: "Hellyers Road Single Malt Peated"
 date: "2015-09-24T21:56:10.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/hellyers-road-distillery-peated/"
 ---
 Hellyers Road Single Malt Peated has been recognised as the nation's best at the Malt Whisky Society of Australia Awards for Excellence. We won the award against strong competition from a number of distilleries from around the country.

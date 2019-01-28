@@ -1,6 +1,8 @@
 ---
 title: "Auchentoshan Springwood"
 date: "2017-07-06T18:44:00.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/auchentoshan-springwood/"
 ---
 ###About the Distillery

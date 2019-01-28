@@ -1,6 +1,8 @@
 ---
 title: "Longmorn 16 Year Old"
 date: "2016-10-27T20:16:58.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/longmorn-16/"
 ---
 <h2 class="center"> About the distillery</h2> 

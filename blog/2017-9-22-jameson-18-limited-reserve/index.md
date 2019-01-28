@@ -1,6 +1,8 @@
 ---
 title: "Jameson 18 Limited Reserve"
 date: "2017-09-21T15:10:00.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/jameson-18-limited-reserve/"
 ---
 ###About the Distillery

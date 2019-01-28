@@ -1,6 +1,8 @@
 ---
 title: "Laphroaig An Cuan Mor"
 date: "2015-08-06T21:53:58.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/laphroaig-an-cuan-mor/"
 ---
 

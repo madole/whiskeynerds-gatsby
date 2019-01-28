@@ -1,6 +1,8 @@
 ---
 title: "Nikka whiskey from the barrel"
 date: "2016-12-08T21:26:00.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/nikka-whiskey-from-the-barrel/"
 ---
 This week is a shake up to what we've been tasting recently, we're going for a classic bourbon from Knob Creek.

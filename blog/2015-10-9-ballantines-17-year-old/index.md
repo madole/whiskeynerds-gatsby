@@ -1,6 +1,8 @@
 ---
 title: "Ballantine's 17 Year Old"
 date: "2015-10-08T19:53:34.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/ballantines-17-year-old/"
 ---
 The longer maturation of Ballantine's 17 Year Old gives an extra depth of flavour and character to the blend. Characterised by a subtle sensation of smokiness that differentiate it from Ballantine's 12. Its fruitiness and velvety texture coming from fresh fruits differs from Ballantine's 21 dry fruits influence. 

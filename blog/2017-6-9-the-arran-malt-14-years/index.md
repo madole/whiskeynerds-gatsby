@@ -1,6 +1,8 @@
 ---
 title: "The Arran Malt - 14 Years"
 date: "2017-06-08T15:31:00.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/the-arran-malt-14-years/"
 ---
 ###From the Distiller

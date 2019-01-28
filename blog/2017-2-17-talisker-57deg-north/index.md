@@ -1,6 +1,8 @@
 ---
 title: "Talisker 57° North"
 date: "2017-02-16T21:15:00.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/talisker-57deg-north/"
 ---
 **FROM THEIR SITE**

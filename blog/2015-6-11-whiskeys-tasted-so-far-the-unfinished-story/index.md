@@ -1,6 +1,8 @@
 ---
 title: "Whiskey's Tasted So Far... (the unfinished story)"
 date: "2015-06-10T14:15:51.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/whiskeys-tasted-so-far-the-unfinished-story/"
 ---
 **Laphroaig Triple Wood**

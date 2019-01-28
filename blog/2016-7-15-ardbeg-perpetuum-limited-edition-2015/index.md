@@ -1,6 +1,8 @@
 ---
 title: "ARDBEG PERPETUUM LIMITED EDITION (2015)"
 date: "2016-07-14T22:03:55.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/ardbeg-perpetuum-limited-edition-2015/"
 ---
 >A classic never-ending, rich, and enticing combination of classic Ardbeggian notes and incredibly creamy flavours. 

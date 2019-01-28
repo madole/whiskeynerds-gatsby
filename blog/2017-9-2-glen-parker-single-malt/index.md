@@ -1,6 +1,8 @@
 ---
 title: "Glen Parker Single Malt"
 date: "2017-09-01T17:13:00.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/glen-parker-single-malt/"
 ---
 ###From the Distiller

@@ -1,6 +1,8 @@
 ---
 title: "High West Campfire Whiskey"
 date: "2016-05-19T22:05:39.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/high-west-campfire-whiskey/"
 ---
 ## Our first bourbon - High West Campfire Whiskey 

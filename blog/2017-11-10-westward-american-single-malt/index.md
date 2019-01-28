@@ -1,6 +1,8 @@
 ---
 title: "Westward American Single Malt"
 date: "2017-11-09T18:56:00.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/westward-american-single-malt/"
 ---
 ###About the Distiller

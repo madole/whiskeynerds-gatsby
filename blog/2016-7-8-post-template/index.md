@@ -1,6 +1,8 @@
 ---
 title: "post-template"
 date: "2016-07-07T19:55:37.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/post-template/"
 ---
 ```

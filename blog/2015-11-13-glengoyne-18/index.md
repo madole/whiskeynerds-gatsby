@@ -1,6 +1,8 @@
 ---
 title: "Glengoyne 18 Year"
 date: "2015-11-12T19:56:54.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/glengoyne-18/"
 ---
 **Glengoyne 18 Year Old** is described as:

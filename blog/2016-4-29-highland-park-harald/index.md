@@ -1,6 +1,8 @@
 ---
 title: "Highland Park Harald"
 date: "2016-04-28T22:08:30.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/highland-park-harald/"
 ---
 King Harald was famed for his army, which was revered across the world. 

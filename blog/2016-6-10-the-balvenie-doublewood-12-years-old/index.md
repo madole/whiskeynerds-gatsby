@@ -1,6 +1,8 @@
 ---
 title: "The Balvenie DoubleWood 12 Years Old"
 date: "2016-06-09T22:17:57.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/the-balvenie-doublewood-12-years-old/"
 ---
 A single malt scotch whisky distilled at The Balvenie distillery in Banffshire, Scotland. 

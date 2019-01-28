@@ -1,6 +1,8 @@
 ---
 title: "Laphroaig Four Oak"
 date: "2018-02-21T17:13:53.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/laphroaig-four-oak/"
 ---
 ###About the Distiller

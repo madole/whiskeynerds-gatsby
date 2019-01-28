@@ -1,6 +1,8 @@
 ---
 title: "Kilchoman Sanaig"
 date: "2017-10-05T18:02:00.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/kilchoman-sanaig/"
 ---
 ###About the Distillery

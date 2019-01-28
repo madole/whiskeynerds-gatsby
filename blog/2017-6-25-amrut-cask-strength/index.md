@@ -1,6 +1,8 @@
 ---
 title: "Amrut Cask Strength"
 date: "2017-06-24T14:53:00.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/amrut-cask-strength/"
 ---
 ###About the Distillery

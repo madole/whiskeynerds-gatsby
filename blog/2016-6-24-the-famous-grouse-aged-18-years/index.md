@@ -1,6 +1,8 @@
 ---
 title: "The Famous Grouse Aged 18 Years"
 date: "2016-06-23T22:01:43.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/the-famous-grouse-aged-18-years/"
 ---
 > "100% Blended Malt Scotch Whisky"

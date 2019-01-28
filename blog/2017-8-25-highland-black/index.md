@@ -1,6 +1,8 @@
 ---
 title: "Highland Black"
 date: "2017-08-24T18:51:00.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/highland-black/"
 ---
 ###From the Distiller

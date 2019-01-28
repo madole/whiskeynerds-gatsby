@@ -1,6 +1,8 @@
 ---
 title: "Starward Wine Cask"
 date: "2018-01-18T12:20:49.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/starward-wine-cask/"
 ---
 ###About the Distiller

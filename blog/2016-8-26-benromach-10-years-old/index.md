@@ -1,6 +1,8 @@
 ---
 title: "Benromach 10 Years Old"
 date: "2016-08-25T21:59:57.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/benromach-10-years-old/"
 ---
 >Duncan MacCallum and F.W. Brickmann founded the Benromach Distillery Company in 1898. Duncan MacCallum had previously been working at the Glen Nevis Distillery in Campbeltown and FW Brickmann was a spirit broker in Leith, Edinburgh. Construction work started at the site of Benromach Distillery in 1898 however due to the depression in the Scotch Whisky industry in 1898 the distillery did not start producing whisky until 1900 but closed the same year due to a lack of money.

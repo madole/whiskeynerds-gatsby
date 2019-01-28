@@ -1,6 +1,8 @@
 ---
 title: "Top Whiskies"
 date: "2016-06-11T19:10:07.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/top-whiskies/"
 ---
 <style>

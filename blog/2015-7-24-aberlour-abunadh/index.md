@@ -1,6 +1,8 @@
 ---
 title: "Aberlour A'bunadh"
 date: "2015-07-23T21:57:47.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/aberlour-abunadh/"
 ---
 A'bunadh is a cask-strength single malt whisky from the Aberlour Distillery in Scotland. Though it has no age statement, it is released in limited run batches, each batch carrying a unique number on its label. Each batch of this whisky is blended from barrels ranging from 5 to 25 years old.

@@ -1,6 +1,8 @@
 ---
 title: "Oban 14 Year Old"
 date: "2016-02-11T20:04:02.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/oban-14-year-old/"
 ---
 **Oban** *Little Bay of Caves*

@@ -1,8 +1,12 @@
 ---
-title: "Dalmore 12 Years"
-date: "1970-01-01T00:00:00.000Z"
-slug: "/dalmore-12-years/"
+title: 'Dalmore 12 Years'
+date: '1970-01-01T00:00:00.000Z'
+category: 'General'
+tags: ['gatsby', 'react', 'typescript', 'graphql']
+slug: '/dalmore-12-years/'
+banner: ''
 ---
+
 ###About the Distiller
 
 [Source: Wikipedia](https://en.wikipedia.org/wiki/House_Spirits_Distillery)
@@ -13,20 +17,18 @@ slug: "/dalmore-12-years/"
 
 **Sight:**
 
+**Aroma:**
 
-**Aroma:** 
+**Flavour:**
 
-**Flavour:** 
-
-**Finish:** 
-
+**Finish:**
 
 **Thoughts:**
-
 
 ---
 
 ###Details
+
 <table>  
 <tr>  
 <td class="grey">Style</td><td>Single Malt Whiskey</td>  
@@ -39,10 +41,10 @@ slug: "/dalmore-12-years/"
 </tr>  
 </table>
 
-
 ---
 
 ###Our Score
+
 <table class="score-table">  
 <tr>  
 <td class="grey">Aroma</td><td>7/10</td>  
@@ -57,4 +59,3 @@ slug: "/dalmore-12-years/"
 <td class="grey"><strong>Overall</strong></td><td><strong>7/10</strong></td>  
 </tr>  
 </table>
-    

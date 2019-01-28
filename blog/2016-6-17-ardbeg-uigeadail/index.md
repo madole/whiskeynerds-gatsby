@@ -1,6 +1,8 @@
 ---
 title: "Ardbeg Uigeadail"
 date: "2016-06-16T22:12:45.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/ardbeg-uigeadail/"
 ---
 > "The ultimate islay scotch whiskey"

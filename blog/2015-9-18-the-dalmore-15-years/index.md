@@ -1,6 +1,8 @@
 ---
 title: "The Dalmore 15 Years"
 date: "2015-09-17T22:01:51.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/the-dalmore-15-years/"
 ---
 Twelve years maturing in American white oak ex-bourbon casks precede a three year finish in three different sherry woods: Amoroso, Apostles and Matusalem oloroso. A robust, yet elegant spirit. 

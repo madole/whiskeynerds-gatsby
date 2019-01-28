@@ -1,6 +1,8 @@
 ---
 title: "Glenfiddich 15 Year - Unique Solera Reserve"
 date: "2016-09-15T22:04:35.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/glenfiddich-15-year-unique-solera-reserve/"
 ---
 >Our Solera Vat is a single malt innovation that marries whiskies matured in sherry, bourbon and new oak casks. Always kept at least half full, it creates a harmonious whisky that gets richer and more complex every year. 

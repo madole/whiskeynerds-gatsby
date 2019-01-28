@@ -1,6 +1,8 @@
 ---
 title: "Kilkerran - 12 Years"
 date: "2017-02-10T00:23:00.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/kilkerran-12-years/"
 ---
 **FROM THEIR SITE**

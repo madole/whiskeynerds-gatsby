@@ -1,6 +1,8 @@
 ---
 title: "Glen Deveron 16 Year Old Single Malt"
 date: "2015-07-02T21:34:29.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/glen-deveron-16-year-old-single-malt/"
 ---
 This subtle expression with a golden amber colour has notes of fine toasted cereal and apple, making this a full, fruity malt with a smooth and mellow finish.

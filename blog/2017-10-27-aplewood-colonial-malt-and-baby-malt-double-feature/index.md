@@ -1,6 +1,8 @@
 ---
 title: "Aplewood Baby Malt / Colonial Malt (Double Feature)"
 date: "2017-10-26T18:27:00.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/aplewood-colonial-malt-and-baby-malt-double-feature/"
 ---
 ###Our Take

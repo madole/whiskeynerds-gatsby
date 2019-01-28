@@ -1,6 +1,8 @@
 ---
 title: "Bruichladdich Octomore 6.1 Scotch Whisky"
 date: "2015-06-18T21:57:43.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/bruichladdich-octomore-6-1-scotch-whisky/"
 ---
 Magnificently muscular. Most heavily peated malts are so dry and phenolic there is little else to spark the senses, not so this young warrior who arouses pride and passion, transporting you to that most famous rock in the Atlantic ocean – Islay – the beating heart of the Hebrides. 

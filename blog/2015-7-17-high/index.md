@@ -1,6 +1,8 @@
 ---
 title: "Highland Park 12 Years Old"
 date: "2015-07-16T21:55:22.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/high/"
 ---
 The Highland style of Whisky is generally considered to be one of the most approachable styles. Deep gold in colour with a nose of heather and wood smoke Highland Park has a deceptively complex palate that ranges from sweet maltiness to smokey peat and savoury spices.

@@ -1,6 +1,8 @@
 ---
 title: "Jameson Caskmates Young Henry's Limited Edition"
 date: "1970-01-01T00:00:00.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/jameson-caskmates-young-henrys-limited-edition/"
 ---
 ###About the Distiller

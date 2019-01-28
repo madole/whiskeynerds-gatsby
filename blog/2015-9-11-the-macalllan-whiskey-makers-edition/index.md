@@ -1,6 +1,8 @@
 ---
 title: "The Macallan Whisky Maker's Edition"
 date: "2015-09-10T21:56:59.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/the-macalllan-whiskey-makers-edition/"
 ---
 Macallan Whisky Maker's Edition has been personally crafted by the distillery's manager, Bob Dalgarno, from a mix of sherry and bourbon casks and bottled at his preferred drinking strength of 42.8%. The 1824 Collection is a range of Macallans released for the travel retail market.

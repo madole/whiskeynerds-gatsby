@@ -1,6 +1,8 @@
 ---
 title: "Jura Elixir - 12 Year Old"
 date: "2017-07-14T14:41:00.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/jura-elixir-12-year-old/"
 ---
 ###About the Distillery

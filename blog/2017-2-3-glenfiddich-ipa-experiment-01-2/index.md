@@ -1,6 +1,8 @@
 ---
 title: "Glenfiddich IPA -  Experiment 01"
 date: "2017-02-02T19:23:31.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/glenfiddich-ipa-experiment-01-2/"
 ---
 

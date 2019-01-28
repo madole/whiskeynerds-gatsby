@@ -1,6 +1,8 @@
 ---
 title: "Glenfarclas Single Malt 21 Years"
 date: "2015-08-27T21:51:38.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/glenfraclas-21-years/"
 ---
 This single malt Whisky is the result of over 170 years of tradition and experience. Sweet malt and smoky peat wreath the gorgeous palate. An outstanding whisky.

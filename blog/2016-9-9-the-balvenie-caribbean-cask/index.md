@@ -1,6 +1,8 @@
 ---
 title: "The Balvenie Caribbean Cask 14 Year"
 date: "2016-09-08T21:50:00.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/the-balvenie-caribbean-cask/"
 ---
 >In early 1892 work began to convert an 18th-century mansion (Balvenie New House) into a distillery. The building took fifteen months to complete, and on 1 May 1893, the first distillation took place at the Balvenie Distillery.

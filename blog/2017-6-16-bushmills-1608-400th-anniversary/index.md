@@ -1,6 +1,8 @@
 ---
 title: "Bushmills 1608 - 400th Anniversary"
 date: "2017-06-15T22:09:00.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/bushmills-1608-400th-anniversary/"
 ---
 ###About the Distillery

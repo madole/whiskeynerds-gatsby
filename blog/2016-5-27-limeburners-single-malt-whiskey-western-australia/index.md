@@ -1,6 +1,8 @@
 ---
 title: "Limeburners Sherry Cask Single Malt Whisky (Western Australia)"
 date: "2016-05-26T22:06:28.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/limeburners-single-malt-whiskey-western-australia/"
 ---
 Continuing our streak of firsts, we have our first Western Australian whisky! 

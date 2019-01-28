@@ -1,6 +1,8 @@
 ---
 title: "The Macallan Double Cask 12 Year Old Single Malt"
 date: "2018-04-05T14:48:06.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/the-macallan-double-cask-12-year-old-single-malt/"
 ---
 ###About the Distiller

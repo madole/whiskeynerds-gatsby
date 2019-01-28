@@ -1,6 +1,8 @@
 ---
 title: "The Macallen Amber"
 date: "2016-10-06T21:00:01.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/the-macallen-amber/"
 ---
 ### The Story

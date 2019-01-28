@@ -1,6 +1,8 @@
 ---
 title: "Glenkinchie Distillers Edition 2000"
 date: "2016-08-05T17:10:49.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/glenkinchie-distillers-edition-2000/"
 ---
 This week we're trying the Glenkinchie Distillers Edition born in 2000 and bottled in 2013. It's double matured in [Amontillado](https://en.wikipedia.org/wiki/Amontillado) casks which should give this whisky some slight hints of sherry. 

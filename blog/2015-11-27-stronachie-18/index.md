@@ -1,6 +1,8 @@
 ---
 title: "Stronachie 18 Small Batch Release"
 date: "2015-11-26T20:10:16.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/stronachie-18/"
 ---
 **Stronachie**: _gaelic for prominent node/headland in the valley_

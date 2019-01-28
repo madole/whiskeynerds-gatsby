@@ -1,6 +1,8 @@
 ---
 title: "Talisker Storm"
 date: "2016-04-21T21:50:56.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/talisker-storm/"
 ---
 > A whiskey made by the sea 

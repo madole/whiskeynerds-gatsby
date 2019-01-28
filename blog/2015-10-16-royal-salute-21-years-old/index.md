@@ -1,6 +1,8 @@
 ---
 title: "Royal Salute 21 Years Old"
 date: "2015-10-15T19:59:56.000Z"
+category: "General"
+tags: ['gatsby', 'react', 'typescript', 'graphql']
 slug: "/royal-salute-21-years-old/"
 ---
 Royal Salute is a brand of Scotch whisky produced by Chivas Brothers (owned by Pernod Ricard), founded in 1801 in Aberdeen, Scotland. 
