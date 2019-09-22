@@ -1,9 +1,15 @@
 ---
-title: 'Dimple 15 Year Old'
+title: Dimple 15 Year Old
 date: '2015-08-13T21:48:53.000Z'
-category: 'Review'
-tags: []
-slug: '/dimple-15-year/'
+description: >-
+  Dimple 15 Year Old Scotch has fragrant tones that are almost tones of perfume
+  mellowing to a sweet buttery aroma. Flavoursome and light, nothing spicy or
+  harsh
+author: Madole
+tags:
+  - scotch
+  - 15 year
+category: review
 ---
 
 Dimple 15 Year Old Scotch has fragrant tones that are almost tones of perfume mellowing to a sweet buttery aroma. Flavoursome and light, nothing spicy or harsh. The finish is delicate and maybe a gesture of dark chocolate hiding in there.
