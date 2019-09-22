@@ -21,8 +21,27 @@ collections:
       - {
           label: 'Tags',
           name: 'tags',
-          widget: 'list',
-          default: ['scotch', 'irish', 'australian', 'japanese', '10 year', '12 year', '15 year', '21 year'],
+          widget: 'select',
+          multiple: 'true',
+          options:
+            [
+              'scotch',
+              'irish',
+              'australian',
+              'japanese',
+              'bourbon',
+              '10 year',
+              '12 year',
+              '15 year',
+              '21 year',
+              '17 year',
+              'sherry cask',
+              'port cask',
+              'peated',
+              'sweet',
+              'salty',
+              'floral',
+            ],
         }
-      - { label: 'Category', name: 'category', widget: 'list', default: ['general', 'review', 'group tasting'] }
+      - { label: 'Category', name: 'category', widget: 'select', options: ['general', 'review', 'group tasting'], default: 'review' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
