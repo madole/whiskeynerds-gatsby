@@ -9,6 +9,7 @@ const Post = styled.article`
   flex-direction: column;
   margin-top: 3.5rem;
   margin-bottom: 3.5rem;
+  width: 60vw;
 `;
 
 const Title = styled.h2`
@@ -44,12 +45,10 @@ interface Props {
 export class Article extends React.PureComponent<Props> {
   public render() {
     const { title, date, excerpt, slug, timeToRead, category } = this.props;
-    const firstChar = title.charAt(0);
 
     return (
       <Post>
         <Title>
-          <Initiale>{firstChar}</Initiale>
           <Link to={`/blog/${slug}`}>{title}</Link>
         </Title>
         <Subline>

@@ -11,7 +11,7 @@ const colors = {
 };
 
 const transitions = {
-  normal: '0.5s',
+  normal: '0.200s',
 };
 
 const fontSize = {

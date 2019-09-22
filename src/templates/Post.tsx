@@ -8,9 +8,12 @@ import config from '../../config/SiteConfig';
 import '../utils/prismjs-theme.css';
 import PathContext from '../models/PathContext';
 import Post from '../models/Post';
+import { media } from '../utils/media';
 
 const PostContent = styled.div`
-  margin-top: 4rem;
+  @media ${media.desktop} {
+    margin-top: 4rem;
+  }
 `;
 
 interface Props {
@@ -31,9 +34,8 @@ export default class PostPage extends React.PureComponent<Props> {
             <SEO postPath={post.fields.slug} postNode={post} postSEO />
             <Helmet title={`${post.frontmatter.title} | ${config.siteTitle}`} />
             <Header>
-              <Link to="/">{config.siteTitle}</Link>
               <SectionTitle>{post.frontmatter.title}</SectionTitle>
-              <Subline light={true}>
+              <Subline>
                 {post.frontmatter.date} &mdash; {post.timeToRead} Min Read &mdash; In{' '}
                 <Link to={`/categories/${kebabCase(post.frontmatter.category)}`}>{post.frontmatter.category}</Link>
               </Subline>

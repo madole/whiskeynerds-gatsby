@@ -1,10 +1,12 @@
 import React from 'react';
-import { StaticQuery, graphql } from 'gatsby';
+import { StaticQuery, graphql, Link } from 'gatsby';
 import styled, { ThemeProvider, createGlobalStyle } from 'styled-components';
 import theme from '../../config/Theme';
 import { media } from '../utils/media';
 import split from 'lodash/split';
 import './layout.scss';
+import SiteConfig from '../../config/SiteConfig';
+import LogoIcon from './logo-icon';
 
 const GlobalStyle = createGlobalStyle`
   ::selection {
@@ -68,33 +70,61 @@ const Footer = styled.footer`
   }
 `;
 
-export class Layout extends React.PureComponent<{}> {
-  public render() {
-    const { children } = this.props;
-
-    return (
-      <StaticQuery
-        query={graphql`
-          query LayoutQuery {
-            site {
-              buildTime(formatString: "DD.MM.YYYY")
-            }
-          }
-        `}
-        render={data => (
-          <ThemeProvider theme={theme}>
-            <React.Fragment>
-              <GlobalStyle />
-              {children}
-              <Footer>
-                &copy; {split(data.site.buildTime, '.')[2]} by Madole. All rights reserved. <br />
-                <a href="https://github.com/madole">GitHub Repository</a> <br />
-                <span>Last build: {data.site.buildTime}</span>
-              </Footer>
-            </React.Fragment>
-          </ThemeProvider>
-        )}
-      />
-    );
+const Nav = styled.nav`
+  position: absolute;
+  top: 1em;
+  left: 1em;
+  z-index: 1;
+  a {
+    display: flex;
   }
+`;
+
+const Logo = styled(LogoIcon)`
+  width: 100px;
+  vertical-align: middle;
+  ${(props: { light?: boolean }) => (props.light ? 'fill: white;' : undefined)}
+`;
+
+const SiteName = styled.h3`
+  display: none;
+  ${(props: { light?: boolean }) => (props.light ? 'color: white;' : undefined)}
+  @media ${media.desktop} {
+    display: block;
+  }
+`;
+
+export function Layout(props: { children: React.ReactNode; homepage?: boolean }) {
+  const { children, homepage } = props;
+
+  return (
+    <StaticQuery
+      query={graphql`
+        query LayoutQuery {
+          site {
+            buildTime(formatString: "DD.MM.YYYY")
+          }
+        }
+      `}
+      render={data => (
+        <ThemeProvider theme={theme}>
+          <React.Fragment>
+            <Nav>
+              <Link to="/">
+                <SiteName light={homepage}>{SiteConfig.siteTitle}</SiteName>
+                <Logo light={homepage} />
+              </Link>
+            </Nav>
+            <GlobalStyle />
+            {children}
+            <Footer>
+              &copy; {split(data.site.buildTime, '.')[2]} by Madole. All rights reserved. <br />
+              <a href="https://github.com/madole">GitHub Repository</a> <br />
+              <span>Last build: {data.site.buildTime}</span>
+            </Footer>
+          </React.Fragment>
+        </ThemeProvider>
+      )}
+    />
+  );
 }
