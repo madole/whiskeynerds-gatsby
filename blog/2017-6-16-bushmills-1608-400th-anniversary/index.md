@@ -7,7 +7,7 @@ slug: "/bushmills-1608-400th-anniversary/"
 ---
 ###About the Distillery
 In the small village of Bushmills, settled on the banks of the river you'll find the oldest working distillery in Ireland. A place where family and friends have worked for generations, in a small Northern Irish village that for over 400 years has kept to the philosophy that hand crafting small batches is the way to produce beautifully smooth tasting Irish whiskey.
-[Source: Bushmills Distillery](http://www.bushmills.com/distillery/)
+[Source: Bushmills Distillery](https://www.bushmills.com/distillery/)
 
 ---
 ###About the Whiskey

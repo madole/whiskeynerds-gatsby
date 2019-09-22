@@ -70,10 +70,10 @@ Its easy to drink, not very complex but very flat whiskey. The lager of the whis
 
  <script type="application/ld+json">
         {
-        "@context": "http://schema.org/",
+        "@context": "https://schema.org/",
         "@type": "Product",
         "name": "Glenfiddich 15 Year - Unique Solera Reserve",
-        "image": "http://whiskeynerds.com/content/images/2016/09/glenfiddich.jpg",
+        "image": "https://whiskeynerds.com/content/images/2016/09/glenfiddich.jpg",
         "description": "Solera Vat is a single malt innovation that marries whiskies matured in sherry, bourbon and new oak casks. Always kept at least half full, it creates a harmonious whisky that gets richer and more complex every year.",
         "brand": {
             "@type": "Thing",

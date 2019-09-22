@@ -8,7 +8,7 @@ slug: '/whiskeys-tasted-so-far-the-unfinished-story/'
 
 **Laphroaig Triple Wood**
 
-![Laphroaig Triple Wood](http://i.imgur.com/lK1tGwPm.jpg)
+![Laphroaig Triple Wood](https://i.imgur.com/lK1tGwPm.jpg)
 
 Laphroaig Triple Wood has enjoyed a triple maturation in 3 types of cask. The first maturation in American oak, ex-bourbon barrels, and then transferred into small 19th century style Quarter Casks for a second maturation. The final maturation is in specially selected, large European oak, Oloroso sherry casks. The result is a wonderfully rich and powerful Islay single malt.
 
@@ -26,7 +26,7 @@ Sullivans Cove Single Cask American Oak Whisky is double distilled using Tasmani
 
 **Jameson Reserve 18 Year**
 
-![Imgur](http://i.imgur.com/rFYWniAm.png)
+![Imgur](https://i.imgur.com/rFYWniAm.png)
 
 First introduced in 2002, Jameson 18 Year Old is the Master Blender, Billy Leighton's hand picked selection of very old Jameson Irish Whiskey, aged in oak casks for at least 18 years. Rich, complex and truly rare, only limited stocks of this exceptional whiskey are available, thus each bottle is individually numbered.
 
@@ -68,7 +68,7 @@ Leading Japanese Whisky with aromas of dried fruit and honey. It has a delicate,
 
 **Glengoyne Single Malt Scotch Whiskey 2000**
 
-![Imgur](http://i.imgur.com/mzRsLFum.jpg)
+![Imgur](https://i.imgur.com/mzRsLFum.jpg)
 
 Glengoyne boasts to be the only distillery that uses no peated barley. Located near the southern fringes of the Trossachs, the distillery sits prettily at the foot of Dumgoyne Hill from which a 50 foot waterfall cascades into the grounds. Matured in a first fill sherry cask, this fine dram exudes rich fig and burnt orange peel notes. The fruity sweet palate is balanced by some oak tannins and there is a syrupy intensity which lingers long into the finish.
 

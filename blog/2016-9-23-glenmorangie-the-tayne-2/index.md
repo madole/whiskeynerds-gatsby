@@ -73,10 +73,10 @@ We had great expectations for another "sweet" whiskey from Glenmorangie, but it 
 
  <script type="application/ld+json">
         {
-        "@context": "http://schema.org/",
+        "@context": "https://schema.org/",
         "@type": "Product",
         "name": "Glenmorangie - The Tayne",
-        "image": "http://whiskeynerds.com/content/images/2016/09/IMG_7912.JPG",
+        "image": "https://whiskeynerds.com/content/images/2016/09/IMG_7912.JPG",
         "description": "It's a somewhat generic whiskey. Nothing too special but easy to drink. Not too complex.",
         "brand": {
             "@type": "Thing",

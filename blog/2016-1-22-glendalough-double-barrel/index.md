@@ -28,7 +28,7 @@ Hailing from Ireland's *first craft distillery* in Co. Wicklow, is this fantasti
 
 >With both barrels being oak, you get that beautiful vanilla thread you’d expect to run through an Irish whiskey. Both barrels are porous too, allowing Ireland’s temperate, maritime air through to make its impression. 
 
-> *- http://www.glendaloughdistillery.com/*
+> *- https://www.glendaloughdistillery.com/*
 
 <br>
 ####What they say...

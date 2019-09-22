@@ -10,7 +10,7 @@ slug: "/glenfiddich-ipa-experiment-01-2/"
 
 In our first groundbreaking experiment, Malt Master Brian Kinsman has proven that traditional whisky casks can still be seasoned in a pioneering way. Collaborating with a local Speyside craft brewer, Brian created a bold and zesty IPA beer to imbue our rich oak casks with extra hoppy notes. The experiment resulted in the first single malt Scotch whisky ever finished in craft IPA casks. 
 
-Finished in bespoke craft IPA barrels, our pioneering new malt is imbued with unique zesty citrus notes and the subtle tang of fresh hops. The flavour comes with carefully hand selecting the right malt whiskies to complement the extra hoppy notes. http://www.glenfiddich.com/au/explore/experimental-ipa
+Finished in bespoke craft IPA barrels, our pioneering new malt is imbued with unique zesty citrus notes and the subtle tang of fresh hops. The flavour comes with carefully hand selecting the right malt whiskies to complement the extra hoppy notes. https://www.glenfiddich.com/au/explore/experimental-ipa
 
 **COLOUR**: Bright Gold
 

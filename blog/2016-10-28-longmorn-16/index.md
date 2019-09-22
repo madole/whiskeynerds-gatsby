@@ -67,10 +67,10 @@ We are surprised by the disparity between smell and flavor. It's still a tasty, 
 
  <script type="application/ld+json">
         {
-        "@context": "http://schema.org/",
+        "@context": "https://schema.org/",
         "@type": "Product",
         "name": "Longmorn 16 Year Old",
-        "image": "http://i.imgur.com/oEM2hPJ.jpg?1",
+        "image": "https://i.imgur.com/oEM2hPJ.jpg?1",
         "description": "Longmorn is considered to be the best kept Scotch Whisky secret by all. A pinnacle 16 year old single malt whisky that showcases the very best of this traditional Speyside malt, Longmorn has been producing whiskies for some of the most recognisable whisky names for centuries. Some even consider Longmorn to be the 'holy grail' of malts. Showing a nose of dusty spice, mocha and dried honey, the Longmorn 16 Year Old follows up on the palate with rich notes of toffee, cinnamon and nutmeg. The finish is long and pure and is best served neat or with a dash of pure still water.",
         "brand": {
             "@type": "Thing",

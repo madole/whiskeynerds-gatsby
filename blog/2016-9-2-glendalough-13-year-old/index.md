@@ -5,7 +5,7 @@ category: "Review"
 tags: []
 slug: "/glendalough-13-year-old/"
 ---
-This whiskey is the big brother of the [Double Barrel](http://whiskeynerds.com/glendalough-double-barrel/) which we reviewed a few months ago. 
+This whiskey is the big brother of the [Double Barrel](https://whiskeynerds.com/glendalough-double-barrel/) which we reviewed a few months ago. 
 When I was buying the Double Barrel, my contact at the whiskey emporium assured me that if I liked this one, the 13 year would be out of this world. The double barrel scored a high 4/5 which translates into 8/10 in our new scoring method.
 I've tasted this weeks offering once before in a cool whiskey bar in Melbourne but I'm looking forward to giving it a proper tasting at our whiskey club.
 

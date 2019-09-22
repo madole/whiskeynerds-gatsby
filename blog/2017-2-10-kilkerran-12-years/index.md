@@ -9,7 +9,7 @@ slug: "/kilkerran-12-years/"
 
 Mitchell's Glengyle Ltd. are very proud to be continuing and adding to the great Campbeltown Distilling tradition and the choice of name reflects that. Kilkerran is derived from the Gaelic 'Ceann Loch Cille Chiarain' which is the name of the original settlement where Saint Kieran had his religious cell and Campbeltown now stands. Kilkerran is thought to be a suitable name for a new Campbeltown Malt since it was unusual for the old Campbeltown distilleries to be called after a Glen, a custom more usually associated with the Speyside region. 
 
-http://www.kilkerransinglemalt.com/our-whisky/
+https://www.kilkerransinglemalt.com/our-whisky/
 
 **NOSE**: Oak notes are dominant, followed by toasted marshmallows and dried fruit pudding, as well as cherries, marzipan and a hint of peat
 

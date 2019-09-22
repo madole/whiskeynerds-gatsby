@@ -11,7 +11,7 @@ In 2012, just four years after beginning commercial production, Nant Single Malt
 ‘Nant’, meaning ‘stream’, was the name given by the first Welsh settlers to both the Valley and the Estate. This very stream meanders through Nant Estate and flows into the millpond; that powers the wheel that turns the stones that grist the malted barley – that also gives its name to Australia’s only Highland Single Malt Whisky.
 
 Both a source of power and a key ingredient in Nant’s success, these pristine waters trace their source upstream to the river Clyde, which is fed from a million-year-old glacial lake in the mystical Tasmanian Highlands.
-[Source](http://www.nant.com.au/our-story/)
+[Source](https://www.nant.com.au/our-story/)
 
 ---
 

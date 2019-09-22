@@ -13,7 +13,7 @@ Our goal is to provide our customers with the products they want, when they want
 Our Scotch Whisky is sold in blended, deluxe blended, single malt, blended malt and single cask varieties. We supply whisky in bulk for local bottling.
 
 We export our whiskies to more than 70 countries around the world."
-[Source: Angus Dundee](http://www.angusdundee.co.uk/ad/about-us/)
+[Source: Angus Dundee](https://www.angusdundee.co.uk/ad/about-us/)
 
 "Glen Parker" Speyside Single Malt Scotch Whisky is distilled in the Speyside region of Scotland, and has been prepared using the same traditional techniques that have long since been used to make the finest malts.
 

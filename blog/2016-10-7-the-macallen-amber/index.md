@@ -85,10 +85,10 @@ This is a nice whisky to drink, it's simplistic and sweet. It takes you on a Rol
 
  <script type="application/ld+json">
         {
-        "@context": "http://schema.org/",
+        "@context": "https://schema.org/",
         "@type": "Product",
         "name": "The Macallen Amber",
-        "image": "http://whiskeynerds.com/content/images/2016/10/Macallan-amber-2.jpg",
+        "image": "https://whiskeynerds.com/content/images/2016/10/Macallan-amber-2.jpg",
         "description": "This is a nice whisky to drink, it's simplistic and sweet. It takes you on a Rollercoaster of burn and no burn in its finish. ",
         "brand": {
             "@type": "Thing",

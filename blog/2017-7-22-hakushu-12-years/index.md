@@ -14,7 +14,7 @@ The distillery was established in 1973, in the forest on the slopes of Mount Kai
 Built amidst the deepest forests of Mt. Kaikomagatake in the Japanese Southern Alps, the Hakushu Distillery is without question one of the highest distilleries in the world.
 
 The majestic forest that surrounds the Hakushu Distillery shelters an abundance of plant varieties reflecting the many expressions of Japanese nature.The malt whiskies born here are simultaneously blessed with a very particular microclimate, verdant forests, and water offering a rare softness and purity, only made possible by filtration of rain and snow through thousand-year-old granite rocks.
-[Source: Suntory](http://whisky.suntory.com/en/na/distilleries/hakushu/index.html)
+[Source: Suntory](https://whisky.suntory.com/en/na/distilleries/hakushu/index.html)
 
 ---
 

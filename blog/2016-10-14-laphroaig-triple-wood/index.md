@@ -81,10 +81,10 @@ This is a solid whisky. Some club members scored this a solid 10/10 for a few of
 
  <script type="application/ld+json">
         {
-        "@context": "http://schema.org/",
+        "@context": "https://schema.org/",
         "@type": "Product",
         "name": "Laphroaig Triple Wood",
-        "image": "http://whiskeynerds.com/content/images/2016/10/laphroaig.jpg",
+        "image": "https://whiskeynerds.com/content/images/2016/10/laphroaig.jpg",
         "description": "Aged first in former bourbon barrels, then in quarter casks, TripleWood's final maturation comes in large, European oak casks. The result is the perfect marriage of peat, oak and subtle sherry sweetness.",
         "brand": {
             "@type": "Thing",

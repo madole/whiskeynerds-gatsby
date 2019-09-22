@@ -70,10 +70,10 @@ A nice whiskey that gets more interesting as you let it sit for a while. Slightl
 
  <script type="application/ld+json">
         {
-        "@context": "http://schema.org/",
+        "@context": "https://schema.org/",
         "@type": "Product",
         "name": "Jura Superstition",
-        "image": "http://whiskeynerds.com/content/images/2016/09/Slack-for-iOS-Upload-5.jpg",
+        "image": "https://whiskeynerds.com/content/images/2016/09/Slack-for-iOS-Upload-5.jpg",
         "description": "A nice whiskey that gets more interesting as you let it sit for a while. Slightly smokey, pleasant and a decent choice for a night of conversation.",
         "brand": {
             "@type": "Thing",
