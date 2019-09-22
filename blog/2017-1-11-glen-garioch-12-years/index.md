@@ -1,8 +1,8 @@
 ---
 title: "Glen Garioch 12 Years"
 date: "2017-01-11T11:26:00.000Z"
-category: "General"
-tags: ['gatsby', 'react', 'typescript', 'graphql']
+category: "Review"
+tags: []
 slug: "/glen-garioch-12-years/"
 ---
 > ####The Distillery

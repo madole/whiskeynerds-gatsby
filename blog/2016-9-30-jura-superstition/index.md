@@ -1,8 +1,8 @@
 ---
 title: "Jura Superstition"
 date: "2016-09-29T22:08:34.000Z"
-category: "General"
-tags: ['gatsby', 'react', 'typescript', 'graphql']
+category: "Review"
+tags: []
 slug: "/jura-superstition/"
 ---
 > The Isle of Jura can be found nestled off the west coast of Scotland. It's a place fames as much for its folklore as it is for its whisky. 

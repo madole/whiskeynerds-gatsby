@@ -1,8 +1,8 @@
 ---
 title: "Glendalough Double Barrel"
 date: "2016-01-21T20:23:30.000Z"
-category: "General"
-tags: ['gatsby', 'react', 'typescript', 'graphql']
+category: "Review"
+tags: []
 slug: "/glendalough-double-barrel/"
 ---
 We're back after our Christmas break (over which we drank lots of whiskey, visited many whiskey bars all over the world and even visited the Irish Whiskey Museum in Dublin, Ireland). 

@@ -1,8 +1,8 @@
 ---
 title: "New World Projects - Double Cask Release #1"
 date: "2015-10-29T20:19:55.000Z"
-category: "General"
-tags: ['gatsby', 'react', 'typescript', 'graphql']
+category: "Review"
+tags: []
 slug: "/new-world-projects/"
 ---
 The latest single malt offering under the New World Projects banner is represented by a complex, rich and elegant single malt via the marriage of 2 Australian Tawny barrels. The contrasting elements of these first & second fill, 200 litre barrels are seamlessly integrated in a style somewhat less boisterous than the previous innovators behind NWWD.

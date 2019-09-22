@@ -1,8 +1,8 @@
 ---
 title: "Laphroaig Triple Wood"
 date: "2016-10-13T20:11:23.000Z"
-category: "General"
-tags: ['gatsby', 'react', 'typescript', 'graphql']
+category: "Review"
+tags: []
 slug: "/laphroaig-triple-wood/"
 ---
 Laphroaig is one of our favourite distilleries. They have a solid range of quintessential islay whiskies which we all really enjoy. Laphroaig triple wood is the first whiskey we ever tasted at Whiskey Club, long before the blog came into existence. I'm really excited to retry this particular whisky to see how our pallettes have changed throughout the last almost 2 years of whiskey club. 

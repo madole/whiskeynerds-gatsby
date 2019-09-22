@@ -1,8 +1,8 @@
 ---
 title: "Westland Sherry Wood American Single Malt"
 date: "2018-02-21T17:39:01.000Z"
-category: "General"
-tags: ['gatsby', 'react', 'typescript', 'graphql']
+category: "Review"
+tags: []
 slug: "/westland-sherry-wood-american-single-malt/"
 ---
 ###About the Distiller

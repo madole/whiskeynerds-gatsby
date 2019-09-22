@@ -1,8 +1,8 @@
 ---
 title: "Laphroaig 18 Years"
 date: "2017-01-31T23:13:24.000Z"
-category: "General"
-tags: ['gatsby', 'react', 'typescript', 'graphql']
+category: "Review"
+tags: []
 slug: "/laphroaig-18-year/"
 ---
 

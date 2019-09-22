@@ -1,8 +1,8 @@
 ---
 title: "Hibiki Japanese Harmony Master's Select"
 date: "2016-05-05T22:03:34.000Z"
-category: "General"
-tags: ['gatsby', 'react', 'typescript', 'graphql']
+category: "Review"
+tags: []
 slug: "/hibiki-japanese-harmony-masters-select/"
 ---
 > “Kanzen”or complete, Hibiki is a harmonious blend of innumerous malt and grain whiskies which are meticulosly blended to create a full orchestra of flavors and aromas.

@@ -1,8 +1,8 @@
 ---
 title: "Hazelburn 10 Year Old"
 date: "2017-03-31T16:35:00.000Z"
-category: "General"
-tags: ['gatsby', 'react', 'typescript', 'graphql']
+category: "Review"
+tags: []
 slug: "/hazelburn-10-year-old/"
 ---
 ###About the distillery

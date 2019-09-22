@@ -1,8 +1,8 @@
 ---
 title: "Our Sponsors"
 date: "2016-06-14T21:43:16.000Z"
-category: "General"
-tags: ['gatsby', 'react', 'typescript', 'graphql']
+category: "Review"
+tags: []
 slug: "/our-sponsors/"
 ---
 

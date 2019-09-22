@@ -1,8 +1,8 @@
 ---
 title: "Starward Wine Cask Single Malt"
 date: "2016-03-31T19:57:01.000Z"
-category: "General"
-tags: ['gatsby', 'react', 'typescript', 'graphql']
+category: "Review"
+tags: []
 slug: "/starward-wine-cask-single-malt/"
 ---
 Matured solely in Australian red wine barrels, this single malt represents a unique integration of our local barley, climate and innovative approach to producing whisky.

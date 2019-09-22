@@ -1,8 +1,8 @@
 ---
 title: "The Chita - Suntory Whisky"
 date: "2017-11-02T18:31:00.000Z"
-category: "General"
-tags: ['gatsby', 'react', 'typescript', 'graphql']
+category: "Review"
+tags: []
 slug: "/the-chita-suntory-whisky/"
 ---
 ###From the Distiller

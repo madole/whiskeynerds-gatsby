@@ -1,8 +1,8 @@
 ---
 title: "Glenmorangie Bacalta (2017 Private Edition)"
 date: "2017-05-05T14:06:00.000Z"
-category: "General"
-tags: ['gatsby', 'react', 'typescript', 'graphql']
+category: "Review"
+tags: []
 slug: "/glenmorangie-bacalta-2017-private-edition/"
 ---
 ###From the distiller:

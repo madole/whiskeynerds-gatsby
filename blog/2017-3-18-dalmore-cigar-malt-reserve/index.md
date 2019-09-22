@@ -1,8 +1,8 @@
 ---
 title: "Dalmore Cigar Malt Reserve"
 date: "2017-03-17T13:42:54.000Z"
-category: "General"
-tags: ['gatsby', 'react', 'typescript', 'graphql']
+category: "Review"
+tags: []
 slug: "/dalmore-cigar-malt-reserve/"
 ---
 **FROM THEIR SITE**

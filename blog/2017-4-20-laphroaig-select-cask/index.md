@@ -1,8 +1,8 @@
 ---
 title: "Laphroaig Select Cask"
 date: "2017-04-19T21:10:52.000Z"
-category: "General"
-tags: ['gatsby', 'react', 'typescript', 'graphql']
+category: "Review"
+tags: []
 slug: "/laphroaig-select-cask/"
 ---
 **FROM THE BOTTLE**

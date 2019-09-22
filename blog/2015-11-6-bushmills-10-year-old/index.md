@@ -1,8 +1,8 @@
 ---
 title: "Bushmills 10 Year Old"
 date: "2015-11-05T19:52:25.000Z"
-category: "General"
-tags: ['gatsby', 'react', 'typescript', 'graphql']
+category: "Review"
+tags: []
 slug: "/bushmills-10-year-old/"
 ---
 **Bushmills 10 Year Old** is described as:

@@ -1,8 +1,8 @@
 ---
 title: "Cragganmore 1996 Double Matured Distillers Edition"
 date: "2016-02-18T19:55:11.000Z"
-category: "General"
-tags: ['gatsby', 'react', 'typescript', 'graphql']
+category: "Review"
+tags: []
 slug: "/cragganmore-1996-double-matured-distillers-edition/"
 ---
 Not much description to go along with this one. 

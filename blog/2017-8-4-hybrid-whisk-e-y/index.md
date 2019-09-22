@@ -1,8 +1,8 @@
 ---
 title: "Hybrid Whisk(e)y"
 date: "2017-08-03T21:17:00.000Z"
-category: "General"
-tags: ['gatsby', 'react', 'typescript', 'graphql']
+category: "Review"
+tags: []
 slug: "/hybrid-whisk-e-y/"
 ---
 ###About the Distillery

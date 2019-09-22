@@ -1,8 +1,8 @@
 ---
 title: "Chivas Regal Gold Signature 18 Year Old Blend"
 date: "2016-07-07T22:06:16.000Z"
-category: "General"
-tags: ['gatsby', 'react', 'typescript', 'graphql']
+category: "Review"
+tags: []
 slug: "/chivas-regal-gold-signature-18-year-old-blend/"
 ---
 ###First Impressions

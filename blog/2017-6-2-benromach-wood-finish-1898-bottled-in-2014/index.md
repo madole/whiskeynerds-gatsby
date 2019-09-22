@@ -1,8 +1,8 @@
 ---
 title: "Benromach Wood Finish 1898 (Bottled in 2014)"
 date: "2017-06-01T15:36:00.000Z"
-category: "General"
-tags: ['gatsby', 'react', 'typescript', 'graphql']
+category: "Review"
+tags: []
 slug: "/benromach-wood-finish-1898-bottled-in-2014/"
 ---
 ###About the Distillery

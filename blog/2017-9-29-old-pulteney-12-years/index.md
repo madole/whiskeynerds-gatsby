@@ -1,8 +1,8 @@
 ---
 title: "Old Pulteney 12 Years"
 date: "2017-09-28T19:19:00.000Z"
-category: "General"
-tags: ['gatsby', 'react', 'typescript', 'graphql']
+category: "Review"
+tags: []
 slug: "/old-pulteney-12-years/"
 ---
 ###About the Distillery

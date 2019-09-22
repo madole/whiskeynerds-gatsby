@@ -1,8 +1,8 @@
 ---
 title: "Glendalough 13 Year Old"
 date: "2016-09-01T21:59:27.000Z"
-category: "General"
-tags: ['gatsby', 'react', 'typescript', 'graphql']
+category: "Review"
+tags: []
 slug: "/glendalough-13-year-old/"
 ---
 This whiskey is the big brother of the [Double Barrel](http://whiskeynerds.com/glendalough-double-barrel/) which we reviewed a few months ago. 

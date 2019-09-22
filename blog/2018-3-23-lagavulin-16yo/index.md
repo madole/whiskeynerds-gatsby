@@ -1,8 +1,8 @@
 ---
 title: "Lagavulin 16yo"
 date: "2018-03-22T17:37:42.000Z"
-category: "General"
-tags: ['gatsby', 'react', 'typescript', 'graphql']
+category: "Review"
+tags: []
 slug: "/lagavulin-16yo/"
 ---
 ###About the Distiller

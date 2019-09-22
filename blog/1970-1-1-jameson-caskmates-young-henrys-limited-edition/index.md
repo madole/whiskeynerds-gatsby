@@ -1,34 +1,33 @@
 ---
 title: "Jameson Caskmates Young Henry's Limited Edition"
-date: "1970-01-01T00:00:00.000Z"
-category: "General"
-tags: ['gatsby', 'react', 'typescript', 'graphql']
-slug: "/jameson-caskmates-young-henrys-limited-edition/"
+date: '1970-01-01T00:00:00.000Z'
+category: 'Review'
+tags: ['irish', 'limited edition', 'jameson']
+slug: '/jameson-caskmates-young-henrys-limited-edition/'
 ---
-###About the Distiller
+
+### About the Distiller
 
 [Source: Wikipedia](https://en.wikipedia.org/wiki/House_Spirits_Distillery)
 
 ---
 
-###Our Take
+### Our Take
 
 **Sight:**
 
+**Aroma:**
 
-**Aroma:** 
+**Flavour:**
 
-**Flavour:** 
-
-**Finish:** 
-
+**Finish:**
 
 **Thoughts:**
 
-
 ---
 
-###Details
+### Details
+
 <table>  
 <tr>  
 <td class="grey">Style</td><td>Single Malt Whiskey</td>  
@@ -41,10 +40,10 @@ slug: "/jameson-caskmates-young-henrys-limited-edition/"
 </tr>  
 </table>
 
-
 ---
 
-###Our Score
+### Our Score
+
 <table class="score-table">  
 <tr>  
 <td class="grey">Aroma</td><td>7/10</td>  
@@ -59,4 +58,3 @@ slug: "/jameson-caskmates-young-henrys-limited-edition/"
 <td class="grey"><strong>Overall</strong></td><td><strong>7/10</strong></td>  
 </tr>  
 </table>
-    

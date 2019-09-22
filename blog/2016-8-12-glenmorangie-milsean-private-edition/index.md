@@ -1,8 +1,8 @@
 ---
 title: "Glenmorangie Milsean Private Edition"
 date: "2016-08-11T22:13:36.000Z"
-category: "General"
-tags: ['gatsby', 'react', 'typescript', 'graphql']
+category: "Review"
+tags: []
 slug: "/glenmorangie-milsean-private-edition/"
 ---
 Glenmorangie Milsean (Scots Gaelic for ‘sweet things’ and pronounced ‘meel-shawn’) is a single malt whisky full of intense candied fruit flavours and mouth-watering sweetness. It has been created from Glenmorangie matured in ex-bourbon casks and then extra-matured in former wine casks, re-toasted for the purpose. This distinctive cask preparation replicates something of the moreish sweetshop flavours in a single malt whisky.

@@ -1,8 +1,8 @@
 ---
 title: "Hellyers Road Distillery - Pinot Noir Finish"
 date: "2017-09-15T17:45:00.000Z"
-category: "General"
-tags: ['gatsby', 'react', 'typescript', 'graphql']
+category: "Review"
+tags: []
 slug: "/hellyers-road-distillery-pinot-noir-finish/"
 ---
 ###About the Distillery

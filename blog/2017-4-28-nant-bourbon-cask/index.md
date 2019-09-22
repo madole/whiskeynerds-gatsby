@@ -1,8 +1,8 @@
 ---
 title: "Nant Bourbon Cask"
 date: "2017-04-27T22:22:58.000Z"
-category: "General"
-tags: ['gatsby', 'react', 'typescript', 'graphql']
+category: "Review"
+tags: []
 slug: "/nant-bourbon-cask/"
 ---
 ###About the Distillery

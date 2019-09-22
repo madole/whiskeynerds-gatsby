@@ -1,8 +1,8 @@
 ---
 title: "Glenmorangie - The Tayne"
 date: "2016-09-22T22:06:04.000Z"
-category: "General"
-tags: ['gatsby', 'react', 'typescript', 'graphql']
+category: "Review"
+tags: []
 slug: "/glenmorangie-the-tayne-2/"
 ---
 >Legend has it that just offshore from our Distillery is the shipwreck of a 16th Century Spanish Galleon. Once loaded with treasure, it is one of many ships lost when the Spanish Armada fled from the English Navy round the Scottish coast.

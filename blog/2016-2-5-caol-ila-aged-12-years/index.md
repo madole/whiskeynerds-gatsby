@@ -1,8 +1,8 @@
 ---
 title: "Caol Ila - Aged 12 Years"
 date: "2016-02-04T19:55:36.000Z"
-category: "General"
-tags: ['gatsby', 'react', 'typescript', 'graphql']
+category: "Review"
+tags: []
 slug: "/caol-ila-aged-12-years/"
 ---
 >**Caol Ila** - *pronounced "cull-eela"* is situated on the North Eastern shores of Islay, with magnificent views across the Sound of Islay to the spectacular Paps of Jura. Watch the distillers at work tending to the six copper stills.

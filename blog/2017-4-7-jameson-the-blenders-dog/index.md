@@ -1,8 +1,8 @@
 ---
 title: "Jameson The Blender's Dog"
 date: "2017-04-07T06:00:00.000Z"
-category: "General"
-tags: ['gatsby', 'react', 'typescript', 'graphql']
+category: "Review"
+tags: []
 slug: "/jameson-the-blenders-dog/"
 ---
 ###From their site

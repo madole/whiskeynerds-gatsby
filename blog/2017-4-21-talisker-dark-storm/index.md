@@ -1,8 +1,8 @@
 ---
 title: "Talisker Dark Storm"
 date: "2017-04-20T22:07:34.000Z"
-category: "General"
-tags: ['gatsby', 'react', 'typescript', 'graphql']
+category: "Review"
+tags: []
 slug: "/talisker-dark-storm/"
 ---
 ###About the Distillery

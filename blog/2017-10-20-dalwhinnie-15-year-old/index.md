@@ -1,8 +1,8 @@
 ---
 title: "Dalwhinnie 15 Year Old"
 date: "2017-10-19T17:24:00.000Z"
-category: "General"
-tags: ['gatsby', 'react', 'typescript', 'graphql']
+category: "Review"
+tags: []
 slug: "/dalwhinnie-15-year-old/"
 ---
 ###About the Distillery

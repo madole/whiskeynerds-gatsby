@@ -1,8 +1,8 @@
 ---
 title: "Michel Couvreur Overaged Malt Whisky"
 date: "2017-08-18T17:48:00.000Z"
-category: "General"
-tags: ['gatsby', 'react', 'typescript', 'graphql']
+category: "Review"
+tags: []
 slug: "/michel-couvreur-overaged-malt-whisky/"
 ---
 ###About the Distiller

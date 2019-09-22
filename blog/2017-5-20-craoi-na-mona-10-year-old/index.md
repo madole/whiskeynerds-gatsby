@@ -1,8 +1,8 @@
 ---
 title: "Craoi Na Móna - 10 Year Old"
 date: "2017-05-19T17:58:16.000Z"
-category: "General"
-tags: ['gatsby', 'react', 'typescript', 'graphql']
+category: "Review"
+tags: []
 slug: "/craoi-na-mona-10-year-old/"
 ---
 ###About the Whiskey
