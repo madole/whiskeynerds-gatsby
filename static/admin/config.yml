@@ -8,14 +8,21 @@ public_folder: /img
 collections:
   - name: 'blog'
     label: 'Blog'
-    folder: 'content/blog'
+    folder: 'blog'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
-      preview: false
+      preview: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Author', name: 'author', widget: 'string' }
+      - {
+          label: 'Tags',
+          name: 'tags',
+          widget: 'list',
+          default: ['scotch', 'irish', 'australian', 'japanese', '10 year', '12 year', '15 year', '21 year'],
+        }
+      - { label: 'Category', name: 'category', widget: 'list', default: ['general', 'review', 'group tasting'] }
       - { label: 'Body', name: 'body', widget: 'markdown' }
