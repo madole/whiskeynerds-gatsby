@@ -92,11 +92,12 @@ export class Article extends React.PureComponent<Props> {
         </Subline>
         <Excerpt>{excerpt}</Excerpt>
         <TagList>
-          {tags.map(tag => (
-            <Tag key={tag} to={`/tags/${kebabCase(tag)}`}>
-              {tag}
-            </Tag>
-          ))}
+          {Array.isArray(tags) &&
+            tags.map(tag => (
+              <Tag key={tag} to={`/tags/${kebabCase(tag)}`}>
+                {tag}
+              </Tag>
+            ))}
         </TagList>
         <Hr />
       </Post>
