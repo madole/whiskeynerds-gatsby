@@ -4,7 +4,7 @@ date: '2015-12-10T20:26:18.000Z'
 description: >-
   A 1988 vintage single malt Scotch whisky from the Glenrothes distillery in
   Speyside. 
-author: Madole
+author: Daniel Serrano
 tags:
   - scotch
 category: review
