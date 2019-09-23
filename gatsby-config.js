@@ -32,14 +32,10 @@ module.exports = {
         path: `${__dirname}/blog`,
       },
     },
-    {
-      resolve: `gatsby-plugin-google-tagmanager`,
+   {
+      resolve: `gatsby-plugin-google-analytics`,
       options: {
-        id: config.Google_Tag_Manager_ID,
-        // Include GTM in development.
-        // Defaults to false meaning GTM will only be loaded in production.
-        includeInDevelopment: false,
-      },
+        trackingId: "UA-52796439-6",
     },
     {
       resolve: 'gatsby-transformer-remark',
