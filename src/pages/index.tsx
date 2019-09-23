@@ -35,6 +35,14 @@ const GridRow: any = styled.div`
   }
 `;
 
+const ArticleContainer = styled.div`
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+`;
+
 export default class IndexPage extends React.Component<PageProps> {
   public render() {
     const { data } = this.props;
@@ -48,18 +56,21 @@ export default class IndexPage extends React.Component<PageProps> {
             <p>A group of sophisticated nerds share their tasting notes on a weekly whiskey choice.</p>
           </GridRow>
           <GridRow>
-            <h2>Latest Blog</h2>
-            {edges.map(post => (
-              <Article
-                title={post.node.frontmatter.title}
-                date={post.node.frontmatter.date}
-                excerpt={post.node.excerpt}
-                timeToRead={post.node.timeToRead}
-                slug={post.node.fields.slug}
-                category={post.node.frontmatter.category}
-                key={post.node.fields.slug}
-              />
-            ))}
+            <ArticleContainer>
+              <h2>Latest Whiskeys</h2>
+              {edges.map(post => (
+                <Article
+                  title={post.node.frontmatter.title}
+                  date={post.node.frontmatter.date}
+                  excerpt={post.node.excerpt}
+                  timeToRead={post.node.timeToRead}
+                  slug={post.node.fields.slug}
+                  category={post.node.frontmatter.category}
+                  key={post.node.fields.slug}
+                  tags={post.node.frontmatter.tags}
+                />
+              ))}
+            </ArticleContainer>
             <p className={'textRight'}>
               <Link to={'/blog'}>All articles ({totalCount})</Link>
             </p>
@@ -71,7 +82,7 @@ export default class IndexPage extends React.Component<PageProps> {
 }
 export const IndexQuery = graphql`
   query {
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }, limit: 5) {
+    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }, limit: 10) {
       totalCount
       edges {
         node {
@@ -82,7 +93,9 @@ export const IndexQuery = graphql`
             title
             date(formatString: "DD.MM.YYYY")
             category
+            tags
           }
+          excerpt(pruneLength: 200)
           timeToRead
         }
       }

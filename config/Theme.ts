@@ -24,3 +24,17 @@ export default {
   transitions,
   fontSize,
 };
+
+/**
+ * if total pges is more than 10
+ *
+ * make the middle ones ...
+ *
+ * total - 10 = middle amount to go
+ *
+ * middleBottom = 5
+ * middleTop = total - 5
+ *
+ * if(i - middleBottom <= 0 && i - middleTop < 0) {
+ * }
+ */

@@ -32,5 +32,5 @@ export default {
 
   //
   Google_Tag_Manager_ID: 'GTM-MVP42QK',
-  POST_PER_PAGE: 4,
+  POST_PER_PAGE: 20,
 };
