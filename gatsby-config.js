@@ -32,10 +32,11 @@ module.exports = {
         path: `${__dirname}/blog`,
       },
     },
-   {
+    {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: "UA-52796439-6",
+        trackingId: 'UA-52796439-6',
+      },
     },
     {
       resolve: 'gatsby-transformer-remark',
