@@ -1,10 +1,10 @@
 import React, { useState, useEffect, createRef } from 'react';
 import { InstantSearch, Index, Hits, connectStateResults } from 'react-instantsearch-dom';
+import styled from 'styled-components';
 import algoliasearch from 'algoliasearch/lite';
 import { Root, HitsWrapper, PoweredBy } from './styles';
 import Input from './input';
 import * as hitComps from './hitComps';
-import styled from 'styled-components';
 
 const Container = styled.div`
   position: relative;
@@ -52,7 +52,15 @@ export default function Search({ collapse, hitsAsGrid }) {
       root={{ Root, props: { ref } }}
     >
       <Container>
-        <Input onFocus={() => setFocus(true)} {...{ collapse, focus }} />
+        <Input
+          onFocus={e => {
+            setFocus(true);
+          }}
+          onClick={e => {
+            window.scrollTo(e.clientX, e.clientY - 50);
+          }}
+          {...{ collapse, focus }}
+        />
 
         <HitsWrapper show={query.length > 0 && focus}>
           {searchIndices.map(({ name, title, hitComp }) => (
