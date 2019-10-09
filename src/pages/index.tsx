@@ -1,11 +1,13 @@
 import React from 'react';
-import { Link, graphql } from 'gatsby';
+import { graphql, Link } from 'gatsby';
 import styled from 'styled-components';
-import { Layout, Article } from '../components';
+import { Article } from '../components/Article';
+import { Layout } from '../components/Layout';
 import PageProps from '../models/PageProps';
 import Helmet from 'react-helmet';
 import config from '../../config/SiteConfig';
 import { media } from '../utils/media';
+import Search from '../components/Search';
 
 const Homepage = styled.main`
   display: flex;
@@ -41,6 +43,9 @@ const ArticleContainer = styled.div`
   justify-content: center;
   flex-direction: column;
   align-items: center;
+  h2 {
+    text-align: center;
+  }
 `;
 
 export default class IndexPage extends React.Component<PageProps> {
@@ -58,6 +63,7 @@ export default class IndexPage extends React.Component<PageProps> {
           <GridRow>
             <ArticleContainer>
               <h2>Latest Whiskeys</h2>
+              <Search />
               {edges.map(post => (
                 <Article
                   title={post.node.frontmatter.title}

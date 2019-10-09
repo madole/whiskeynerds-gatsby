@@ -31,7 +31,6 @@ const HeaderWrapper = styled.header`
 
 const Content = styled.div`
   position: relative;
-  z-index: 999;
   a {
     color: black;
     &:hover {

@@ -5,7 +5,8 @@ require('ts-node').register({
     target: 'es2017',
   },
 });
-
+require('dotenv').config();
+const queries = require('./src/utils/algolia').default;
 const config = require('./config/SiteConfig').default;
 const pathPrefix = config.pathPrefix === '/' ? '' : config.pathPrefix;
 
@@ -71,6 +72,15 @@ module.exports = {
         theme_color: config.themeColor,
         display: 'standalone',
         icon: config.favicon,
+      },
+    },
+    {
+      resolve: `gatsby-plugin-algolia`,
+      options: {
+        appId: process.env.GATSBY_ALGOLIA_APP_ID,
+        apiKey: process.env.ALGOLIA_ADMIN_KEY,
+        queries,
+        chunkSize: 10000, // default: 1000
       },
     },
   ],
