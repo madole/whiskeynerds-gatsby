@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { createRef } from 'react';
 import { graphql, Link } from 'gatsby';
 import styled from 'styled-components';
 import { Article } from '../components/Article';
@@ -48,44 +48,44 @@ const ArticleContainer = styled.div`
   }
 `;
 
-export default class IndexPage extends React.Component<PageProps> {
-  public render() {
-    const { data } = this.props;
-    const { edges, totalCount } = data.allMarkdownRemark;
-    return (
-      <Layout homepage>
-        <Helmet title={`Homepage | ${config.siteTitle}`} />
-        <Homepage>
-          <GridRow background={true}>
-            <h1>Hi, We are Whiskey Nerds!</h1>
-            <p>A group of sophisticated nerds share their tasting notes on a weekly whiskey choice.</p>
-          </GridRow>
-          <GridRow>
-            <ArticleContainer>
-              <h2>Latest Whiskeys</h2>
-              <Search />
-              {edges.map(post => (
-                <Article
-                  title={post.node.frontmatter.title}
-                  date={post.node.frontmatter.date}
-                  excerpt={post.node.excerpt}
-                  timeToRead={post.node.timeToRead}
-                  slug={post.node.fields.slug}
-                  category={post.node.frontmatter.category}
-                  key={post.node.fields.slug}
-                  tags={post.node.frontmatter.tags}
-                />
-              ))}
-            </ArticleContainer>
-            <p className={'textRight'}>
-              <Link to={'/blog'}>All articles ({totalCount})</Link>
-            </p>
-          </GridRow>
-        </Homepage>
-      </Layout>
-    );
-  }
+export default function IndexPage(props: PageProps) {
+  const focusRef = createRef<HTMLHeadingElement>();
+  const { data } = props;
+  const { edges, totalCount } = data.allMarkdownRemark;
+  return (
+    <Layout homepage>
+      <Helmet title={`Homepage | ${config.siteTitle}`} />
+      <Homepage>
+        <GridRow background={true}>
+          <h1>Hi, We are Whiskey Nerds!</h1>
+          <p>A group of sophisticated nerds share their tasting notes on a weekly whiskey choice.</p>
+        </GridRow>
+        <GridRow>
+          <ArticleContainer>
+            <h2 ref={focusRef}>Latest Whiskeys</h2>
+            <Search focusRef={focusRef} />
+            {edges.map(post => (
+              <Article
+                title={post.node.frontmatter.title}
+                date={post.node.frontmatter.date}
+                excerpt={post.node.excerpt}
+                timeToRead={post.node.timeToRead}
+                slug={post.node.fields.slug}
+                category={post.node.frontmatter.category}
+                key={post.node.fields.slug}
+                tags={post.node.frontmatter.tags}
+              />
+            ))}
+          </ArticleContainer>
+          <p className={'textRight'}>
+            <Link to={'/blog'}>All articles ({totalCount})</Link>
+          </p>
+        </GridRow>
+      </Homepage>
+    </Layout>
+  );
 }
+
 export const IndexQuery = graphql`
   query {
     allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }, limit: 10) {

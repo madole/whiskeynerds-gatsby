@@ -14,17 +14,6 @@ export const SearchIcon = styled(Search)`
   pointer-events: none;
 `;
 
-const focus = css`
-  background: white;
-  color: ${props => props.theme.darkBlue};
-  cursor: text;
-  width: 5em;
-  + ${SearchIcon} {
-    color: ${props => props.theme.darkBlue};
-    margin: 0.3em;
-  }
-`;
-
 export const Input = styled.input`
   border-radius: ${props => props.theme.smallBorderRadius};
   font-size: 1em;

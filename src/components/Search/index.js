@@ -37,7 +37,12 @@ const useClickOutside = (ref, handler, events) => {
 
 const searchIndices = [{ name: `Posts`, title: `Blog Posts`, hitComp: `PostHit` }];
 
-export default function Search({ collapse, hitsAsGrid }) {
+const scrollToRef = (ref, padding = 0) => {
+  console.log(ref.current.offsetTop);
+  window.scrollTo(0, ref.current.offsetTop);
+};
+
+export default function Search({ collapse, hitsAsGrid, focusRef }) {
   const ref = createRef();
   const [query, setQuery] = useState('');
   const [focus, setFocus] = useState(false);
@@ -57,7 +62,8 @@ export default function Search({ collapse, hitsAsGrid }) {
             setFocus(true);
           }}
           onClick={e => {
-            window.scrollTo(e.clientX, e.clientY - 50);
+            const topPadding = 20;
+            scrollToRef(focusRef, topPadding);
           }}
           {...{ collapse, focus }}
         />
